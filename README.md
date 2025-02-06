@@ -6,12 +6,11 @@
     <img src="assets/Matrix.gif" alt="Matrix Digital Rain" width="100%">
   </a>
   
-  <!-- GLITCHING TITLE WITH TERMINAL EFFECT -->
+  <!-- SLOWER GLITCHING TITLE WITH TERMINAL EFFECT -->
   <div style="margin-top:20px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=40&duration=4000&color=00FF00&center=true&vCenter=true&width=900&lines=+++%24+sudo+init_user.sh+Pedro_Fabian_Owono;++++++++ENGINEERING_PROTOCOL++ACTIVATED.;++++++++SYSTEMS++ONLINE." alt="Terminal Command Effect">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=40&duration=8000&color=00FF00&center=true&vCenter=true&width=900&lines=+++%24+sudo+init_user.sh+Pedro_Fabian_Owono;++++++++ENGINEERING_PROTOCOL++ACTIVATED.;++++++++SYSTEMS++ONLINE.&pause=2000" alt="Terminal Command Effect">
   </div>
-  
-
+</div>
 
 ---
 
@@ -47,7 +46,9 @@
 
 ## 🌍 Visitors Counter
 <div align="center" style="margin-top:20px;">
+  <!-- Note: This counter only displays the total view count -->
   <img src="https://komarev.com/ghpvc/?username=Owono2001&color=brightgreen&style=for-the-badge" alt="Visitor Count">
+  <p style="font-size:12px; color:#888;"></p>
 </div>
 
 ---
@@ -82,5 +83,3 @@
   <!-- GitHub Skyline Animation -->
   <img src="assets/Skyline.gif" alt="GitHub Skyline" width="100%">
   
-
-
