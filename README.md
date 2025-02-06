@@ -11,11 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=40&duration=4000&color=00FF00&center=true&vCenter=true&width=900&lines=+++%24+sudo+init_user.sh+Pedro_Fabian_Owono;++++++++ENGINEERING_PROTOCOL++ACTIVATED.;++++++++SYSTEMS++ONLINE." alt="Terminal Command Effect">
   </div>
   
-  <!-- ROTATING HOLOGRAM CARD -->
-  <div style="margin-top:20px;">
-    <img src="assets/Holo-card.gif" alt="Holographic Interface" width="400">
-  </div>
-</div>
+
 
 ---
 
@@ -86,25 +82,5 @@
   <!-- GitHub Skyline Animation -->
   <img src="assets/Skyline.gif" alt="GitHub Skyline" width="100%">
   
-  <!-- Rotating Tech Orbit Animation -->
-  <div style="margin-top:20px;">
-    <img src="assets/Tech-orbit.gif" alt="Rotating Tech Globe" width="300">
-  </div>
-  
-  <!-- Quantum Portal Animation -->
-  <div style="margin-top:20px;">
-    <a href="https://owono2001.github.io/">
-      <img src="assets/Portal.gif" alt="Quantum Portal" width="200">
-    </a>
-  </div>
-  
-  <!-- Cyber Shield Animation -->
-  <div style="margin-top:20px;">
-    <img src="assets/Shield.gif" alt="Cyber Shield" width="200">
-  </div>
-  
-  <!-- Contribution Graph -->
-  <div style="margin-top:20px;">
-    <img src="assets/Contribution-graph.png" alt="Contribution Graph" width="100%">
-  </div>
-</div>
+
+
