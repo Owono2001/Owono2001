@@ -23,5 +23,7 @@ jobs:
       - name: Run Cyber Sync
         env:
           SPOTIFY_TOKEN: ${{ secrets.SPOTIFY_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # No need to add manually, it's provided by GitHub
         run: node .github/scripts/spotify-updater.js
