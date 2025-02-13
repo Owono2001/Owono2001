@@ -1,6 +1,7 @@
-const { Octokit } = require("@octokit/rest");
-const fs = require("fs");
-require("dotenv").config();
+import { Octokit } from "@octokit/rest";
+import fs from "fs";
+import dotenv from "dotenv";
+dotenv.config();
 
 const token = process.env.SPOTIFY_TOKEN;
 const githubToken = process.env.GITHUB_TOKEN;
@@ -33,12 +34,9 @@ async function updateReadme() {
   // Fetch top tracks
   const trackList = await getTopTracks();
 
-  // Spotify Playlist Embed with Updated Playlist ID
-  const playlistId = "1ovl1EfATYpVidXAP4d0nH"; // Your actual Spotify Playlist ID
-  const embedCode = `<iframe 
-    src="https://open.spotify.com/embed/playlist/${playlistId}" 
-    width="80%" height="360" frameborder="0" allow="encrypted-media">
-  </iframe>`;
+  // Spotify Playlist Embed
+  const playlistId = "1ovl1EfATYpVidXAP4d0nH";  // Replace with your playlist ID
+  const embedCode = `<iframe src="https://open.spotify.com/embed/playlist/${playlistId}" width="80%" height="360" frameborder="0" allow="encrypted-media"></iframe>`;
 
   // Read README
   let content = fs.readFileSync("README.md", "utf8");
@@ -49,10 +47,10 @@ async function updateReadme() {
       `<!-- TOP_TRACKS_START -->\n${trackList}\n<!-- TOP_TRACKS_END -->`)
     .replace(/<!-- PLAYLIST_EMBED_START -->[\s\S]*<!-- PLAYLIST_EMBED_END -->/,
       `<!-- PLAYLIST_EMBED_START -->\n${embedCode}\n<!-- PLAYLIST_EMBED_END -->`);
-  
+
   fs.writeFileSync("README.md", content);
 
-  // Commit changes to GitHub
+  // Commit changes
   await octokit.repos.createOrUpdateFileContents({
     owner: "Owono2001",
     repo: "Owono2001",
