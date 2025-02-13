@@ -35,7 +35,7 @@ async function updateReadme() {
   const trackList = await getTopTracks();
 
   // Spotify Playlist Embed
-  const playlistId = "1ovl1EfATYpVidXAP4d0nH";  // Replace with your playlist ID
+  const playlistId = "1ovl1EfATYpVidXAP4d0nH";  // ✅ Use your actual Spotify Playlist ID
   const embedCode = `<iframe src="https://open.spotify.com/embed/playlist/${playlistId}" width="80%" height="360" frameborder="0" allow="encrypted-media"></iframe>`;
 
   // Read README
@@ -60,5 +60,4 @@ async function updateReadme() {
     sha: await getFileSha("README.md"),
   });
 }
-
 updateReadme();
