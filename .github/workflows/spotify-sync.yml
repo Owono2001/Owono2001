@@ -2,8 +2,8 @@ name: Cyber Music Sync
 
 on:
   schedule:
-    - cron: '0 12 * * *' # Runs every day at 12:00 UTC
-  workflow_dispatch: # Allows manual trigger
+    - cron: '0 12 * * *'  # Runs daily at 12:00 UTC
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   update:
@@ -18,7 +18,7 @@ jobs:
           node-version: 18.x
 
       - name: Install Dependencies
-        run: npm install @octokit/rest dotenv
+        run: npm install
 
       - name: Run Cyber Sync
         env:
