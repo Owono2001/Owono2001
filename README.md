@@ -70,7 +70,7 @@
   <a href="https://open.spotify.com/playlist/1ovl1EfATYpVidXAP4d0nH">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&color=7DF9FF">
   </a>
-  <a href="https://www.linkedin.com/in/pedro-owono/">
+  <a href="https://www.linkedin.com/in/pedrofondomangue/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=7DF9FF">
   </a>
 </div>
