@@ -6,6 +6,9 @@ dotenv.config();
 const token = process.env.PERSONAL_ACCESS_TOKEN;
 const githubToken = process.env.PERSONAL_ACCESS_TOKEN;
 
+// Debugging: log the GitHub Token
+console.log("GitHub Token:", githubToken ? "Loaded Successfully" : "Not Found");
+
 // Spotify API Fetch Function
 async function fetchWebApi(endpoint, method, body) {
   try {
