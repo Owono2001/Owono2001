@@ -8,6 +8,9 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:                 # ✅ Added permissions for actions & contents
+      contents: write             # Allows writing to the repository
+      actions: read                # Read access to GitHub Actions
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
@@ -25,5 +28,5 @@ jobs:
           SPOTIFY_TOKEN: ${{ secrets.SPOTIFY_TOKEN }}
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Updated here!
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # ✅ Ensure this is set in GitHub Secrets!
         run: node .github/scripts/spotify-updater.js
