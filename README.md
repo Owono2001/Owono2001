@@ -9,20 +9,25 @@
 
 ---
 
-## 🚀 About Me
+## 🧬 <span style="color: #7DF9FF">Digital DNA</span>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=20000&color=7DF9FF&background=000000&center=true&vCenter=true&width=1100&height=80&lines=Hi%2C%20I%27m%20Pedro%20Fabian%20Owono.;I%20focus%20on%20Mobile%20App%20Development%20for%20my%20Final%20Year%20Project.;I%20work%20to%20create%20solutions%20that%20are%20practical%20and%20beautiful.;I%20love%20collaborating%20on%20projects%20that%20challenge%20me.;Feel%20free%20to%20connect%20with%20me%20via%20the%20links%20below.;Let%27s%20create%20something%20amazing%20together!&cursor=true&cursorColor=7DF9FF" alt="Typewriter Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=7DF9FF&background=000000&center=true&vCenter=true&width=1100&height=80&lines=SYSTEM_INITIALIZE(...);++MOBILE_DEVELOPER.exe_LOADED;++FULLSTACK_CAPABILITIES.ACTIVATE;++INNOVATION_ENGINE=TRUE;++CREATIVE_SOLUTIONS=OPTIMIZED;++COLLABORATION_PROTOCOLS=ENABLED;" alt="HUD Interface" />
 </div>
 
 <hr style="border: 2px solid #7DF9FF; box-shadow: 0 0 15px #7DF9FF; margin: 40px 0;">
 
 <h1 align="center" style="font-size: 2.5em; color: #7DF9FF; text-shadow: 0 0 15px #7DF9FF;">
-  🌌 Welcome to My World
-</h1>
+  
+## 🛠️ <span style="color: #7DF9FF">Cyber Arsenal</span>
 
-<div align="center">
-  <img src="https://github.com/Owono2001/Owono2001/blob/main/assets/Cyberpunk.gif?raw=true" width="100%">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; padding: 20px; background: rgba(0,0,0,0.5); border-radius: 15px; border: 2px solid #7DF9FF;">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=000000">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=000000">
+  <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white&color=000000">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=000000">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=000000">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=000000">
 </div>
 
 ---
@@ -71,6 +76,7 @@
 </div>
 
 ---
+
 
 <h2 style="font-size: 2em; color: #7DF9FF; margin: 30px 0 20px 0;">👁️ Visitor Counter</h2>
 
