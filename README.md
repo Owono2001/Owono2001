@@ -91,4 +91,32 @@
   <img src="assets/Neon.gif" width="100%">
 </div>
 
+## 🎧 <span style="color: #7DF9FF">Cyber Soundtrack</span>
+
+<div align="center">
+
+### 🎵 **Currently Playing**
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=7DF9FF&bar_color_cover=000000">
+
+### ⌚ **Top Tracks**
+<!-- TOP_TRACKS_START -->
+<!-- TOP_TRACKS_END -->
+
+### 🌀 **My Spotify Playlist**
+<!-- PLAYLIST_EMBED_START -->
+<!-- PLAYLIST_EMBED_END -->
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 
