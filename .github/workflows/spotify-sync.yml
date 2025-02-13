@@ -25,5 +25,5 @@ jobs:
           SPOTIFY_TOKEN: ${{ secrets.SPOTIFY_TOKEN }}
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}  # Replace GH_PAT with your actual secret name
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Updated here!
         run: node .github/scripts/spotify-updater.js
