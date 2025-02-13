@@ -8,12 +8,23 @@ const githubToken = process.env.GITHUB_TOKEN;
 
 // Spotify API Fetch Function
 async function fetchWebApi(endpoint, method, body) {
-  const res = await fetch(`https://api.spotify.com/${endpoint}`, {
-    headers: { Authorization: `Bearer ${token}` },
-    method,
-    body: JSON.stringify(body),
-  });
-  return await res.json();
+  try {
+    const res = await fetch(`https://api.spotify.com/${endpoint}`, {
+      headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
+      method,
+      body: body ? JSON.stringify(body) : null,
+    });
+
+    if (!res.ok) {
+      console.error(`Spotify API Error: ${res.status} ${res.statusText}`);
+      return null;
+    }
+
+    return await res.json();
+  } catch (error) {
+    console.error("Error fetching from Spotify API:", error);
+    return null;
+  }
 }
 
 // Fetch Top Tracks
@@ -22,6 +33,14 @@ async function getTopTracks() {
     "v1/me/top/tracks?time_range=short_term&limit=5",
     "GET"
   );
+
+  console.log("Spotify API Response:", tracks);  // ✅ Debugging step
+
+  if (!tracks || !tracks.items) {
+    console.error("⚠️ Error: Spotify API did not return expected data!");
+    return ["⚠️ Error fetching top tracks"];
+  }
+
   return tracks.items.map(
     ({ name, artists }) => `🎵 ${name} by ${artists.map((a) => a.name).join(", ")}`
   ).join("\n");
@@ -35,7 +54,7 @@ async function updateReadme() {
   const trackList = await getTopTracks();
 
   // Spotify Playlist Embed
-  const playlistId = "1ovl1EfATYpVidXAP4d0nH";  // ✅ Use your actual Spotify Playlist ID
+  const playlistId = "1ovl1EfATYpVidXAP4d0nH";  // ✅ Your Spotify Playlist ID
   const embedCode = `<iframe src="https://open.spotify.com/embed/playlist/${playlistId}" width="80%" height="360" frameborder="0" allow="encrypted-media"></iframe>`;
 
   // Read README
@@ -51,13 +70,28 @@ async function updateReadme() {
   fs.writeFileSync("README.md", content);
 
   // Commit changes
-  await octokit.repos.createOrUpdateFileContents({
-    owner: "Owono2001",
-    repo: "Owono2001",
-    path: "README.md",
-    message: "🔄 Updated Spotify Now Playing",
-    content: Buffer.from(content).toString("base64"),
-    sha: await getFileSha("README.md"),
-  });
+  try {
+    const { data: readmeData } = await octokit.repos.getContent({
+      owner: "Owono2001",
+      repo: "Owono2001",
+      path: "README.md",
+    });
+
+    const sha = readmeData.sha;
+
+    await octokit.repos.createOrUpdateFileContents({
+      owner: "Owono2001",
+      repo: "Owono2001",
+      path: "README.md",
+      message: "🔄 Updated Spotify Now Playing",
+      content: Buffer.from(content).toString("base64"),
+      sha,
+    });
+
+    console.log("✅ README updated successfully!");
+  } catch (error) {
+    console.error("❌ Error updating README:", error);
+  }
 }
+
 updateReadme();
