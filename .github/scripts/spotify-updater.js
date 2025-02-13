@@ -3,8 +3,8 @@ import fs from "fs";
 import dotenv from "dotenv";
 dotenv.config();
 
-const token = process.env.SPOTIFY_TOKEN;
-const githubToken = process.env.GITHUB_TOKEN;
+const token = process.env.PERSONAL_ACCESS_TOKEN;
+const githubToken = process.env.PERSONAL_ACCESS_TOKEN;
 
 // Spotify API Fetch Function
 async function fetchWebApi(endpoint, method, body) {
