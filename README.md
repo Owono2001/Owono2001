@@ -89,4 +89,9 @@
 
 ## 🌍 Latest Website Updates
 <!-- WEBSITE-UPDATE-LIST:START -->
+- [GitHub - Owono2001/Machine-Vision-and-Intelligence: For the Machine Vision and Intelligence &lpar;MVI&rpar; assignment, our group developed a vision-based hand gesture recognition system using cutting-edge machine learning techniques.](https://github.com/Owono2001/Machine-Vision-and-Intelligence)
+- [GitHub - Owono2001/Communication-Engineering-Principles: For the &quot;Communication Engineering Principles&quot; assignment, I worked on designing and simulating different amplitude modulation techniques using MATLAB and Simulink.](https://github.com/Owono2001/Communication-Engineering-Principles)
+- [GitHub - Owono2001/Control-Engineering: The &quot;Washing Machine Control System&quot; assignment involves designing a vibration control system using MATLAB and Simulink.](https://github.com/Owono2001/Control-Engineering)
+- [GitHub - Owono2001/OOP-with-Java-: For the Object-Oriented Programming with Java assignment, our team developed a Car Rental System using Java and NetBeans. The system features two main users: the Administrator and the Customer, each interacting with the system through a Graphical User Interface &lpar;GUI&rpar;.](https://github.com/Owono2001/OOP-with-Java-)
+- [GitHub - Owono2001/Hidroponic-System-in-C-programming: For the Object-Oriented Programming with C assignment, I developed a Hydroponic System model for tomato plants. This system allows users to monitor and manage critical parameters such as pH levels, temperature, humidity, and nutritional needs.](https://github.com/Owono2001/Hidroponic-System-in-C-programming)
 <!-- WEBSITE-UPDATE-LIST:END -->
