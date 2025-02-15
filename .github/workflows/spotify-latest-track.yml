@@ -16,6 +16,6 @@ jobs:
       - name: Fetch latest Spotify track
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://owono2001.vercel.app/api/spotify"
+          feed_list: "https://owono2001-dwf1a0r9k-owono2001s-projects.vercel.app/api/spotify"
           max_post_count: 1
           comment_tag_name: SPOTIFY-TRACK
