@@ -1,45 +1,79 @@
 import fetch from 'node-fetch';
+import express from 'express';
+import dotenv from 'dotenv';
 
-export default async function handler(req, res) {
-  const refreshToken = process.env.SPOTIFY_REFRESH_TOKEN;
-  const clientId = process.env.SPOTIFY_CLIENT_ID;
-  const clientSecret = process.env.SPOTIFY_CLIENT_SECRET;
+dotenv.config(); // Load environment variables
 
-  const basic = Buffer.from(`${clientId}:${clientSecret}`).toString('base64');
-  const tokenUrl = "https://accounts.spotify.com/api/token";
+const app = express();
+const PORT = process.env.PORT || 3000;
 
-  const response = await fetch(tokenUrl, {
-    method: "POST",
-    headers: {
-      Authorization: `Basic ${basic}`,
-      "Content-Type": "application/x-www-form-urlencoded"
-    },
-    body: new URLSearchParams({
-      grant_type: "refresh_token",
-      refresh_token: refreshToken
-    })
-  });
+// 🔐 Load Spotify Credentials from `.env`
+const refreshToken = process.env.SPOTIFY_REFRESH_TOKEN;
+const clientId = process.env.SPOTIFY_CLIENT_ID;
+const clientSecret = process.env.SPOTIFY_CLIENT_SECRET;
 
-  const { access_token } = await response.json();
+// 🟢 Function to Get a New Access Token
+async function getAccessToken() {
+    const authString = Buffer.from(`${clientId}:${clientSecret}`).toString('base64');
 
-  const nowPlayingUrl = "https://api.spotify.com/v1/me/player/currently-playing";
+    const response = await fetch('https://accounts.spotify.com/api/token', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/x-www-form-urlencoded',
+            'Authorization': `Basic ${authString}`
+        },
+        body: new URLSearchParams({
+            grant_type: 'refresh_token',
+            refresh_token: refreshToken
+        })
+    });
 
-  const nowPlayingResponse = await fetch(nowPlayingUrl, {
-    headers: { Authorization: `Bearer ${access_token}` }
-  });
+    const data = await response.json();
+    if (data.error) {
+        console.error("❌ Spotify API Error:", data.error_description);
+        return null;
+    }
 
-  if (nowPlayingResponse.status === 204 || nowPlayingResponse.status > 400) {
-    return res.status(200).json({ isPlaying: false });
-  }
-
-  const nowPlaying = await nowPlayingResponse.json();
-
-  res.status(200).json({
-    isPlaying: true,
-    song: nowPlaying.item.name,
-    artist: nowPlaying.item.artists.map(artist => artist.name).join(", "),
-    album: nowPlaying.item.album.name,
-    albumImageUrl: nowPlaying.item.album.images[0].url,
-    songUrl: nowPlaying.item.external_urls.spotify
-  });
+    console.log("✅ New Access Token:", data.access_token);
+    return data.access_token;
 }
+
+// 🎵 Function to Get Currently Playing Track
+async function getCurrentlyPlayingTrack() {
+    const accessToken = await getAccessToken();
+    if (!accessToken) return null;
+
+    const response = await fetch('https://api.spotify.com/v1/me/player/currently-playing', {
+        method: 'GET',
+        headers: {
+            'Authorization': `Bearer ${accessToken}`
+        }
+    });
+
+    const data = await response.json();
+    if (!data || data.error) {
+        console.error("❌ Spotify API Error:", data?.error?.message || "No data received.");
+        return null;
+    }
+
+    return {
+        song: data.item.name,
+        artist: data.item.artists.map(artist => artist.name).join(", "),
+        album: data.item.album.name,
+        url: data.item.external_urls.spotify
+    };
+}
+
+// 🟢 API Route (For Vercel)
+app.get('/api/spotify', async (req, res) => {
+    const track = await getCurrentlyPlayingTrack();
+    if (!track) {
+        return res.status(404).json({ error: "No song is currently playing." });
+    }
+    res.json(track);
+});
+
+// 🌍 Start Server (For Local Testing)
+app.listen(PORT, () => console.log(`🚀 Server running on http://localhost:${PORT}`));
+
+export default app; // Required for Vercel Deployment
