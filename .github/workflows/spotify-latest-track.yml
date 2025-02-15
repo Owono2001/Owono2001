@@ -19,7 +19,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Owono2001
-          spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          spotify_refresh_token: ${{secrets.SPOTIFY_REFRESH_TOKEN}}
+          client_id: ${{secrets.SPOTIFY_CLIENT_ID}}
           client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           comment_tag_name: SPOTIFY-TRACK
