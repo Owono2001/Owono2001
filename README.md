@@ -100,3 +100,7 @@
 <!-- YOUTUBE-VIDEO:START -->
 - [Syrin Mba Wa Mayi Reaccion #guineaecuatorial #equatorialguinea #africa](https://www.youtube.com/watch?v=Lupg1vec88I)
 <!-- YOUTUBE-VIDEO:END -->
+
+## 🎵 Now Playing on Spotify
+<!-- SPOTIFY-TRACK:START -->
+<!-- SPOTIFY-TRACK:END -->
