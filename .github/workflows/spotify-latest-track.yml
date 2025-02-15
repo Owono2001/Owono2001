@@ -13,12 +13,9 @@ jobs:
     name: Update README with latest Spotify track
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
       - name: Fetch latest Spotify track
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://owono2001-ewmp2s9pz-owono2001s-projects.vercel.app/api/spotify"
+          feed_list: "https://owono2001.vercel.app/api/spotify"
           max_post_count: 1
           comment_tag_name: SPOTIFY-TRACK
