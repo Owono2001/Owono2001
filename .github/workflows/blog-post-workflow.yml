@@ -1,4 +1,4 @@
-name: Latest Blog Posts Workflow
+name: Update README with latest YouTube video
 on:
   schedule:
     - cron: '0 * * * *' # Runs every hour
@@ -7,15 +7,13 @@ permissions:
   contents: write
 
 jobs:
-  update-readme-with-blog:
-    name: Update README with latest blog posts
+  update-readme-with-youtube:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Pull in latest blog posts
+      - name: Fetch latest YouTube video
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/pedro_fabian"
-          max_post_count: 5
+          feed_list: "https://dev.to/feed/pedrofabian"
