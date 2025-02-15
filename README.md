@@ -17,7 +17,7 @@
 
 <hr style="border: 2px solid #7DF9FF; box-shadow: 0 0 15px #7DF9FF; margin: 40px 0;">
 
-<h1 align="center" style="font-size: 2.5em; color: #7DF9FF; text-shadow: 0 0 15px #7DF9FF;">
+<!-- <h1 align="center" style="font-size: 2.5em; color: #7DF9FF; text-shadow: 0 0 15px #7DF9FF;"> -->
   
 ## 🛠️ <span style="color: #7DF9FF">Cyber Arsenal</span>
 
@@ -87,4 +87,7 @@
 
 ---
 
+## 📜 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
