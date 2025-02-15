@@ -87,7 +87,6 @@
 
 ---
 
-## 📜 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+## 🌍 Latest Website Updates
+<!-- WEBSITE-UPDATE-LIST:START -->
+<!-- WEBSITE-UPDATE-LIST:END -->

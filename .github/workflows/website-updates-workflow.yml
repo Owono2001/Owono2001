@@ -1,0 +1,22 @@
+name: Website Updates Workflow
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-website:
+    name: Update README with website updates
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch latest website updates
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://rss.app/feeds/KVbl0GorcoyKN7JP.xml"
+          max_post_count: 5
+          comment_tag_name: WEBSITE-UPDATE-LIST
