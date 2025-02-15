@@ -1,12 +1,1 @@
-{
-  "name": "your-project",
-  "version": "1.0.0",
-  "scripts": {
-    "start": "node api/index.js"
-  },
-  "dependencies": {
-    "dotenv": "^16.0.3",
-    "express": "^4.18.2",
-    "node-fetch": "^2.6.7"
-  }
-}
+{}
