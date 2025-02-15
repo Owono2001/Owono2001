@@ -1,18 +1,13 @@
 import fetch from 'node-fetch';
-import express from 'express';
 import dotenv from 'dotenv';
 
 dotenv.config(); // Load environment variables
 
-const app = express();
-const PORT = process.env.PORT || 3000;
-
-// 🔐 Load Spotify Credentials from `.env`
 const refreshToken = process.env.SPOTIFY_REFRESH_TOKEN;
 const clientId = process.env.SPOTIFY_CLIENT_ID;
 const clientSecret = process.env.SPOTIFY_CLIENT_SECRET;
 
-// 🟢 Function to Get a New Access Token
+// 🔐 Function to Get a New Access Token
 async function getAccessToken() {
     const authString = Buffer.from(`${clientId}:${clientSecret}`).toString('base64');
 
@@ -34,14 +29,13 @@ async function getAccessToken() {
         return null;
     }
 
-    console.log("✅ New Access Token:", data.access_token);
     return data.access_token;
 }
 
 // 🎵 Function to Get Currently Playing Track
 async function getCurrentlyPlayingTrack() {
     const accessToken = await getAccessToken();
-    if (!accessToken) return null;
+    if (!accessToken) return { error: "Failed to fetch access token" };
 
     const response = await fetch('https://api.spotify.com/v1/me/player/currently-playing', {
         method: 'GET',
@@ -52,8 +46,7 @@ async function getCurrentlyPlayingTrack() {
 
     const data = await response.json();
     if (!data || data.error) {
-        console.error("❌ Spotify API Error:", data?.error?.message || "No data received.");
-        return null;
+        return { error: "No song is currently playing or API error." };
     }
 
     return {
@@ -64,16 +57,11 @@ async function getCurrentlyPlayingTrack() {
     };
 }
 
-// 🟢 API Route (For Vercel)
-app.get('/api/spotify', async (req, res) => {
+// 🟢 API Handler for Vercel
+export default async function handler(req, res) {
     const track = await getCurrentlyPlayingTrack();
-    if (!track) {
-        return res.status(404).json({ error: "No song is currently playing." });
+    if (track.error) {
+        return res.status(404).json(track);
     }
     res.json(track);
-});
-
-// 🌍 Start Server (For Local Testing)
-app.listen(PORT, () => console.log(`🚀 Server running on http://localhost:${PORT}`));
-
-export default app; // Required for Vercel Deployment
+}
