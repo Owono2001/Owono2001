@@ -98,6 +98,6 @@
 
 ## 📺 Latest YouTube Video
 <!-- YOUTUBE-VIDEO:START -->
-- [Hamba](https://www.youtube.com/watch?v=cvNab2ClHRU)
+- [Loka Loka #afrobeat Equatorial Guinea](https://www.youtube.com/watch?v=37IX9L49d0g)
 <!-- YOUTUBE-VIDEO:END -->
 
