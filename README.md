@@ -98,6 +98,6 @@
 
 ## 📺 Latest YouTube Video
 <!-- YOUTUBE-VIDEO:START -->
-- [Loka Loka #afrobeat Equatorial Guinea](https://www.youtube.com/watch?v=37IX9L49d0g)
+- [Tyla Syndrome #southafrica #johannesburg #trending #music](https://www.youtube.com/watch?v=gLf3vq8xoP4)
 <!-- YOUTUBE-VIDEO:END -->
 
