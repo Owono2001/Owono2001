@@ -98,6 +98,6 @@
 
 ## 📺 Latest YouTube Video
 <!-- YOUTUBE-VIDEO:START -->
-- [Tyla Syndrome #southafrica #johannesburg #trending #music](https://www.youtube.com/watch?v=gLf3vq8xoP4)
+- [Haring Sawi &lpar;X&#39;s Huling Habilin&rpar;](https://www.youtube.com/watch?v=XBstoK9B9mk)
 <!-- YOUTUBE-VIDEO:END -->
 
