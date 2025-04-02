@@ -45,10 +45,6 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=0D1117" alt="Docker"> <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white&color=0D1117" alt="Wix"> </div>
 </details>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Owono2001/Owono2001/main/assets/divider.gif" alt="Cyber Divider" width="80%">
-</p>
-
 ## 📊 <span style="color: #7DF9FF">HOLO-METRICS DECK</span>
 
 <div align="center">
@@ -87,10 +83,6 @@
   </details>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Owono2001/Owono2001/main/assets/divider.gif" alt="Cyber Divider" width="80%">
-</p>
-
 ## 🌐 <span style="color: #7DF9FF">NETWORK NODES</span>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
@@ -109,10 +101,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Owono2001/Owono2001/main/assets/divider.gif" alt="Cyber Divider" width="80%">
-</p>
-
 ## 🌍 <span style="color: #7DF9FF">LATEST TRANSMISSIONS</span>
 - **[Machine Vision & Intelligence]** Vision-based hand gesture recognition system using ML techniques. [View Repo](https://github.com/Owono2001/Machine-Vision-and-Intelligence)
 - **[Communication Engineering]** Design & simulation of AM techniques using MATLAB/Simulink. [View Repo](https://github.com/Owono2001/Communication-Engineering-Principles)
@@ -121,7 +109,6 @@
 - **[OOP with C]** Hydroponic System model for tomato plant parameter monitoring (pH, temp, humidity). [View Repo](https://github.com/Owono2001/Hidroponic-System-in-C-programming)
 ## 📺 <span style="color: #7DF9FF">CHANNEL BROADCAST</span>
 - [Haring Sawi (X's Huling Habilin)](YOUR_ACTUAL_YOUTUBE_LINK_HERE) <p align="center">
-  <img src="https://raw.githubusercontent.com/Owono2001/Owono2001/main/assets/divider.gif" alt="Cyber Divider" width="80%">
 </p>
 
 ## 👁️ <span style="color: #7DF9FF">VISITOR ANALYTICS</span>
