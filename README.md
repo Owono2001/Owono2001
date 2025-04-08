@@ -9,6 +9,19 @@
   </samp>
 </div>
 
+## 👁️ <span style="color: #7DF9FF">VISITOR ANALYTICS</span>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Owono2001&style=flat-square&color=7DF9FF&label=PROFILE+VIEWS" alt="Profile Views Counter">
+  <br>
+  <samp>
+    <p style="font-family: 'Courier New', Courier, monospace; color: #7DF9FF; font-size: 1.1em;">
+      > Log Entry: Visitor connection established.<br>
+      > Status: Innovation protocols enhanced... 🔥 Thank you for connecting!
+    </p>
+  </samp>
+</div>
+
 ---
 
 ## 🧬 <span style="color: #7DF9FF">DIGITAL CORE</span>
@@ -87,47 +100,23 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/pedrofondomangue/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117" alt="LinkedIn">
+    <img src="assets/follow-us-on-linkedin-icon.svg" alt="LinkedIn" height="40">
   </a>
   <a href="https://x.com/owono_pedro" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white&color=0D1117" alt="X (Twitter)">
+    <img src="assets/x-social-media-logo-icon.svg" alt="X (Twitter)" height="40">
   </a>
   <a href="https://www.instagram.com/owono2001/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0D1117" alt="Instagram">
+    <img src="assets/ig-instagram-icon.svg" alt="Instagram" height="40">
   </a>
   <a href="https://wa.me/60174438152" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=0D1117" alt="Chat on WhatsApp">
+    <img src="assets/wa-whatsapp-icon.svg" alt="Chat on WhatsApp" height="40"> </a>
+  <a href="mailto:owonoondomangue@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="assets/gmail-icon.svg" alt="Email Me" height="40">
   </a>
-  <a href="mailto:owonoondomangue@gmail.com" target="_blank" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117" alt="Email">
-  </a>
-  <a href="https://owono2001.github.io/MyPortfolio/" target="_blank" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Portfolio-7DF9FF?style=for-the-badge&logo=github&logoColor=black&color=0D1117" alt="Portfolio">
+  <a href="https://owono2001.github.io/MyPortfolio/" target="_blank" style="text-decoration: none;">
+    <img src="assets/businessman-gear-icon.svg" alt="Portfolio" height="40">
   </a>
 </div>
-
-## 🌍 <span style="color: #7DF9FF">LATEST TRANSMISSIONS</span>
-- **[Machine Vision & Intelligence]** Vision-based hand gesture recognition system using ML techniques. [View Repo](https://github.com/Owono2001/Machine-Vision-and-Intelligence)
-- **[Communication Engineering]** Design & simulation of AM techniques using MATLAB/Simulink. [View Repo](https://github.com/Owono2001/Communication-Engineering-Principles)
-- **[Control Engineering]** Washing machine vibration control system design with MATLAB/Simulink. [View Repo](https://github.com/Owono2001/Control-Engineering)
-- **[OOP with Java]** Car Rental System GUI application for Admin & Customer users. [View Repo](https://github.com/Owono2001/OOP-with-Java-)
-- **[OOP with C]** Hydroponic System model for tomato plant parameter monitoring (pH, temp, humidity). [View Repo](https://github.com/Owono2001/Hidroponic-System-in-C-programming)
-## 📺 <span style="color: #7DF9FF">CHANNEL BROADCAST</span>
-- [Haring Sawi (X's Huling Habilin)](YOUR_ACTUAL_YOUTUBE_LINK_HERE) <p align="center">
-</p>
-
-## 👁️ <span style="color: #7DF9FF">VISITOR ANALYTICS</span>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Owono2001&style=flat-square&color=7DF9FF&label=PROFILE+VIEWS" alt="Profile Views Counter">
-  <br>
-  <samp>
-    <p style="font-family: 'Courier New', Courier, monospace; color: #7DF9FF; font-size: 1.1em;">
-      > Log Entry: Visitor connection established.<br>
-      > Status: Innovation protocols enhanced... 🔥 Thank you for connecting!
-    </p>
-  </samp>
-</div>
-
----
 
 <p align="center">
   <samp>
