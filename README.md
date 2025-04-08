@@ -71,13 +71,13 @@
       <tr>
         <td colspan="2">
           <h3 align="center" style="color: #7DF9FF;">⚡ Activity Graph</h3>
-           <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Owono2001&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&line=7DF9FF&point=FFFFFF&area_color=7DF9FF" alt="Activity Graph">
+            <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Owono2001&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&line=7DF9FF&point=FFFFFF&area_color=7DF9FF" alt="Activity Graph">
         </td>
       </tr>
        <tr>
         <td colspan="2">
           <h3 align="center" style="color: #7DF9FF;">🏆 Achievements Unlocked</h3>
-           <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Owono2001&theme=radical&no-bg=true&no-frame=false&row=2&column=4&margin-w=15&margin-h=15&border_radius=10" alt="Achievements"> </td>
+            <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Owono2001&theme=radical&no-bg=true&no-frame=false&row=2&column=4&margin-w=15&margin-h=15&border_radius=10" alt="Achievements"> </td>
       </tr>
     </table>
   </details>
@@ -94,6 +94,9 @@
   </a>
   <a href="https://www.instagram.com/owono2001/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0D1117" alt="Instagram">
+  </a>
+  <a href="https://wa.me/60174438152" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=0D1117" alt="Chat on WhatsApp">
   </a>
   <a href="mailto:owonoondomangue@gmail.com" target="_blank" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117" alt="Email">
   </a>
