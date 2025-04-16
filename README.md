@@ -1,5 +1,4 @@
 # 💻 Pedro Fabian Owono / Agent: Owono2001
-https://github.com/user-attachments/assets/5e760367-bd37-4c84-9e5a-c99cb120e043
 
 <div align="center">
   <a href="https://owono2001.github.io/"> <img src="assets/Matrix.gif" alt="Matrix Digital Rain Header" width="100%">
