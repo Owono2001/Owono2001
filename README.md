@@ -113,7 +113,7 @@
   <a href="mailto:owonoondomangue@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="assets/gmail-icon.svg" alt="Email Me" height="40">
   </a>
-  <a href="https://owono2001.github.io/MyPortfolio/" target="_blank" style="text-decoration: none;">
+  <a href="https://myportfolio-b-type.onrender.com/" target="_blank" style="text-decoration: none;">
     <img src="assets/businessman-gear-icon.svg" alt="Portfolio" height="40">
   </a>
 </div>
