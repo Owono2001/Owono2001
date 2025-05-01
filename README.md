@@ -64,7 +64,7 @@
           &gt;&gt; ATTENTION: PROJECT SHOWCASE MODULE AWAITING INPUT &lt;&lt;
       </p>
       <p style="color: #FFD700; font-size: 1.0em;">
-          <em>Recommendation: Populate with 2-4 key projects relevant to target roles. Utilize the commented-out `<details>` structure above for optimal presentation. Include visuals, descriptions, tech stacks, and links.</em>
+          <em>Recommendation: Populate with 2-4 key projects relevant to target roles. Utilize the commented-out `<details>` structure example for optimal presentation. Include visuals, descriptions, tech stacks, and links.</em>
       </p>
     </div>
     </samp>
@@ -113,27 +113,28 @@
         </td>
       </tr>
       <tr>
-        <td colspan="2" align="center">
-          <h3 align="center" style="color: #7DF9FF; font-weight: normal; letter-spacing: 0.5px;">Contribution Consistency</h3>
-          <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Owono2001&theme=github-dark-blue&border=7DF9FF&stroke=7DF9FF&ring=7DF9FF&fire=7DF9FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&background=0D1117" alt="GitHub Streak Stats">
+        <td colspan="2">
+          <h3 align="center" style="color: #7DF9FF;">🔥 Contribution Streak & Consistency</h3>
+          <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Owono2001&theme=github-dark-blue&border=7DF9FF&stroke=7DF9FF&ring=7DF9FF&fire=7DF9FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&background=0D1117" alt="GitHub Streak Stats for Owono2001">
         </td>
       </tr>
       <tr>
-         <td colspan="2" align="center">
-             <h3 align="center" style="color: #7DF9FF; font-weight: normal; letter-spacing: 0.5px;">Contribution Grid</h3>
-             <img width="90%" src="https://raw.githubusercontent.com/Owono2001/Owono2001/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"> 
+         <td colspan="2">
+             <h3 align="center" style="color: #7DF9FF;">🐍 Contribution Snake</h3>
+             <img width="95%" src="https://raw.githubusercontent.com/Owono2001/Owono2001/main/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake for Owono2001"> 
              </td>
       </tr>
       <tr>
-        <td colspan="2" align="center">
-          <h3 align="center" style="color: #7DF9FF; font-weight: normal; letter-spacing: 0.5px;">Activity Intensity</h3>
-           <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Owono2001&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&line=7DF9FF&point=FFFFFF&area_color=7DF9FF" alt="GitHub Activity Graph">
+        <td colspan="2">
+          <h3 align="center" style="color: #7DF9FF;">⚡ Activity Matrix // Contribution Graph</h3>
+          <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Owono2001&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&line=7DF9FF&point=FFFFFF&area_color=7DF9FF" alt="GitHub Activity Graph for Owono2001">
         </td>
       </tr>
       <tr>
         <td colspan="2" align="center">
           <h3 align="center" style="color: #7DF9FF; font-weight: normal; letter-spacing: 0.5px;">Profile Achievements</h3>
-           <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Owono2001&theme=radical&no-bg=true&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&border_radius=10" alt="GitHub Trophies"> </td>
+           <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Owono2001&theme=radical&no-bg=true&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&border_radius=10" alt="GitHub Trophies"> 
+        </td>
       </tr>
     </table>
   </details>
