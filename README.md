@@ -14,21 +14,6 @@
 ---
 
 <div align="center">
-  <h2 style="color: #7DF9FF; margin-bottom: 15px; letter-spacing: 1px;">
-     N Professional Summary N
-  </h2>
-  <blockquote style="border-left: 4px solid #7DF9FF; background-color: #0D1117; padding: 15px; border-radius: 5px; margin: 0 5%; max-width: 850px; text-align: left;">
-    <p style="font-size: 1.05em; line-height: 1.7; color: #c9d1d9;">
-      I am a results-oriented final-year <strong>Computer Engineering</strong> student at <strong>Asia Pacific University (APU)</strong>, specializing in software development, design, and machine learning. Driven by a passion for innovation and problem-solving, my academic journey focuses on building intelligent systems and cutting-edge applications through hands-on technical projects.
-      <br><br>
-      My experience includes developing diverse software solutions, such as secure banking systems (Python), streamlined car service management apps (Java), and AI-driven applications integrating computer vision (Python, TensorFlow, OpenCV). I am proficient in <strong style="color:#7DF9FF">Full-Stack Development</strong> (Python/Flask/Django, JS/React) and <strong style="color:#7DF9FF">AI/ML</strong>, and eager to apply my technical skills and collaborative spirit to challenging entry-level/graduate roles starting September 2025.
-    </p>
-  </blockquote>
-</div>
-
----
-
-<div align="center">
     <h2 style="color: #7DF9FF; margin: 25px 0 15px 0; letter-spacing: 1px;">
       🎓 Education 🎓
     </h2>
@@ -40,7 +25,7 @@
             Bachelor of Computer Engineering with Honours
         </p>
         <p style="margin: 5px 0 0 0; font-size: 0.9em; color: #7DF9FF;">
-            <em>Expected Graduation: Sep 2025 - Dec 2025</em>
+            <em>Expected Graduation: Sep 2025 
         </p>
     </div>
 </div>
@@ -97,7 +82,7 @@
     </tr>
   </table>
   <p style="color: #c9d1d9; font-size: 0.9em; margin-top: 15px;">
-    <em>(For detailed project experience and academic background, please see my <a href="https://www.linkedin.com/in/pedrofondomangue/" target="_blank" rel="noopener noreferrer" style="color: #7DF9FF;">LinkedIn Profile</a>)</em>
+    <em>(For detailed professional summary, project experience, and academic background, please see my <a href="https://www.linkedin.com/in/pedrofondomangue/" target="_blank" rel="noopener noreferrer" style="color: #7DF9FF;">LinkedIn Profile</a>)</em>
   </p>
 </div>
 
@@ -178,19 +163,14 @@
         <td width="50%" valign="top" align="center">
           <h4 align="center" style="color: #7DF9FF; font-weight: normal; letter-spacing: 0.5px;">Public Repository Stats</h4>
           <img width="95%" src="https://github-readme-stats.vercel.app/api?username=Owono2001&show_icons=true&theme=github_dark&border_color=7DF9FF&icon_color=7DF9FF&title_color=7DF9FF&text_color=c9d1d9&bg_color=0D1117&border_radius=10" alt="GitHub Stats (Public)"/>
-          <br><br> <img src="https://komarev.com/ghpvc/?username=Owono2001&style=for-the-badge&color=7DF9FF&label=PROFILE+VIEWS" alt="Profile Views Counter">
+          <br><br>
+          <img src="https://komarev.com/ghpvc/?username=Owono2001&style=for-the-badge&color=7DF9FF&label=PROFILE+VIEWS" alt="Profile Views Counter">
         </td>
         <td width="50%" valign="top" align="center">
           <h4 align="center" style="color: #7DF9FF; font-weight: normal; letter-spacing: 0.5px;">Most Used Languages</h4>
           <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owono2001&layout=compact&langs_count=8&theme=github_dark&border_color=7DF9FF&title_color=7DF9FF&text_color=c9d1d9&bg_color=0D1117&border_radius=10" alt="Top Languages"/>
         </td>
       </tr>
-      <tr>
-         <td colspan="2" align="center" style="padding-top: 20px;">
-           <h4 align="center" style="color: #7DF9FF;">Contribution Streak</h4>
-           <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Owono2001&theme=github-dark-blue&border=7DF9FF&stroke=7DF9FF&ring=7DF9FF&fire=7DF9FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&background=0D1117" alt="GitHub Streak Stats">
-         </td>
-       </tr>
        <tr>
           <td colspan="2" align="center" style="padding-top: 20px;">
             <h4 align="center" style="color: #7DF9FF;">Contribution Activity Graph</h4>
@@ -228,7 +208,7 @@
     <a href="mailto:owonoondomangue@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email">
     </a>
-    </div>
+  </div>
 </div>
 <br><br>
 
