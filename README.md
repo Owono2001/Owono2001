@@ -36,7 +36,7 @@
   ---
 
   <a href="https://www.dmu.ac.uk/home.aspx" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-bottom: 10px;">
-    <img src="assets/De_Monfort.jpg" alt="DMU Logo" width="400"> 
+    <img src="assets/De_Monfort.jpg" alt="DMU Logo" width="350"> 
   </a>
   <br/>
   De Montfort University (DMU), UK
