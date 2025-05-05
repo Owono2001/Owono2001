@@ -45,7 +45,7 @@
 
   (Awarded through APU-DMU Dual Award Scheme)
 
-  Expected Award Date: January 2025
+  Expected Award Date: January 2026
 
 ---
 
@@ -96,7 +96,7 @@
      </tr>
   </table>
   <p style="color: #c9d1d9; font-size: 0.9em; margin-top: 15px;">
-    <em>(For detailed professional summary, project experience, and academic background, please see my LinkedIn Profile linked above.)</em>
+    <em>(For detailed professional summary, project experience, and academic background, please see my LinkedIn Profile linked below.)</em>
   </p>
 </div>
 
