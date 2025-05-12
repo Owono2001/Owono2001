@@ -27,19 +27,6 @@ I’m a driven final-year Computer Engineering student at APU with a passion for
 > _Expected Award: January 2026_
 
 ---
-  
-  <a href="https://www.dmu.ac.uk/home.aspx" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-bottom: 10px;">
-    <img src="assets/De_Monfort.jpg" alt="DMU Logo" width="350">
-  </a>
-  <br/>
-  **De Montfort University (DMU), UK**  
-  Master of Engineering (MEng)  
-  (Awarded through APU–DMU Dual Award Scheme)  
-  _Expected Award Date: January 2026_
-
-</div>
-
----
 
 <div align="center">
   <h2 style="color: #7DF9FF; margin: 25px 0 15px 0; letter-spacing: 1px;">
