@@ -16,18 +16,6 @@ I’m a driven final-year Computer Engineering student at APU with a passion for
 
 ---
 
-## 🎓 Education
-
-**Asia Pacific University of Technology & Innovation (APU/APIIT), Malaysia**  
-> B.Eng. Computer Engineering (Hons)  
-> _Expected Graduation: September 2025_
-
-**De Montfort University (DMU), UK**  
-> M.Eng. Engineering (Dual Award via APU–DMU scheme)  
-> _Expected Award: January 2026_
-
----
-
 <div align="center">
   <h2 style="color: #7DF9FF; margin: 25px 0 15px 0; letter-spacing: 1px;">
     🛠️ Technical Skillset 🛠️
