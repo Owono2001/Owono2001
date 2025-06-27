@@ -21,6 +21,9 @@
   <a href="https://speech-therapy-dashboard1.onrender.com/" target="_blank" style="margin-right: 8px;">
     <img src="https://img.shields.io/badge/Project-Roadmap-9cf?style=for-the-badge&logo=trello&logoColor=black" alt="Project Plan">
   </a>
+  <a href="https://marketanalysisdashboard.onrender.com/" target="_blank" style="margin-right: 8px;">
+    <img src="https://img.shields.io/badge/Market-Analysis-ff69b4?style=for-the-badge&logo=coursera&logoColor=black" alt="Market Analysis">
+  </a>
   <a href="https://speech-therapy-dashboard2.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Live-Progress-7DF9FF?style=for-the-badge&logo=chartmogul&logoColor=black" alt="Progress Dashboard">
   </a>
