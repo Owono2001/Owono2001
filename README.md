@@ -9,6 +9,32 @@
 </p>
 
 ---
+## 🦾 My Mission: Revolutionizing Stuttering Therapy
+
+<p align="center">
+  I am dedicating my skills to building an <b>AI-Powered Speech Therapy Assistant</b>, a mobile app designed to provide real-time, personalized therapy for individuals who stutter. My goal is to create an accessible tool that genuinely improves lives. This is more than a project; it's a personal mission to make a difference.
+</p>
+<p align="center">
+  Follow my journey and see the progress of this passion project below.
+</p>
+<p align="center">
+  <a href="https://speech-therapy-dashboard1.onrender.com/" target="_blank" style="margin-right: 8px;">
+    <img src="https://img.shields.io/badge/Project-Roadmap-9cf?style=for-the-badge&logo=trello&logoColor=black" alt="Project Plan">
+  </a>
+  <a href="https://speech-therapy-dashboard2.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Progress-7DF9FF?style=for-the-badge&logo=chartmogul&logoColor=black" alt="Progress Dashboard">
+  </a>
+</p>
+<p align="center">
+  If this mission resonates with you, consider supporting its development. Every contribution helps bring this vision to life.
+</p>
+<p align="center">
+  <a href="https://ko-fi.com/pedromangue" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
+  </a>
+</p>
+
+---
 
 ## 👋 About Me
 
