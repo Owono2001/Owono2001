@@ -12,32 +12,36 @@
 ## 🦾 My Mission: Revolutionizing Stuttering Therapy
 
 <p align="center">
-  I am dedicating my skills to building an <b>AI-Powered Speech Therapy Assistant</b>, a mobile app designed to provide real-time, personalized therapy for individuals who stutter. My goal is to create an accessible tool that genuinely improves lives. This is more than a project; it's a personal mission to make a difference.
+  I'm developing an <strong>AI-Powered Speech Therapy Assistant</strong> – a mobile application delivering real-time, personalized therapy for individuals who stutter. My mission is to create an accessible, clinically effective tool that transforms lives through innovative technology. This is more than a project; it's a commitment to redefining speech therapy accessibility.
 </p>
+
 <p align="center">
-  Follow my journey and see the progress of this passion project below.
+  Track the development journey and real-time progress of this initiative through the resources below:
 </p>
+
 <p align="center">
-  <a href="https://speech-therapy-dashboard1.onrender.com/" target="_blank" style="margin-right: 8px;">
-    <img src="https://img.shields.io/badge/Project-Roadmap-9cf?style=for-the-badge&logo=trello&logoColor=black" alt="Project Plan">
-  </a>
-  <a href="https://mobilefriendlymarketanalysis.onrender.com/" target="_blank" style="margin-right: 8px;">
-    <img src="https://img.shields.io/badge/Market-Analysis-ff69b4?style=for-the-badge&logo=coursera&logoColor=black" alt="Market Analysis">
-  </a>
-  <a href="https://speech-therapy-dashboard2.onrender.com/" target="_blank" style="margin-right: 8px;">
-    <img src="https://img.shields.io/badge/Live-Progress-7DF9FF?style=for-the-badge&logo=chartmogul&logoColor=black" alt="Progress Dashboard">
-  </a>
-  <a href="https://benchmarkaimodels.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AI-Benchmark-lightgrey?style=for-the-badge&logo=google-cloud&logoColor=black" alt="AI Benchmark">
-  </a>
+  <a href="https://speech-therapy-dashboard1.onrender.com/" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Project_Roadmap-0052CC?style=for-the-badge&logo=trello&logoColor=white&labelColor=0D76BF" alt="Project Roadmap">
+  </a>
+  <a href="https://mobilefriendlymarketanalysis.onrender.com/" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Market_Analysis-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white&labelColor=C13D8F" alt="Market Analysis">
+  </a>
+  <a href="https://speech-therapy-dashboard2.onrender.com/" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Live_Progress-00C7B7?style=for-the-badge&logo=progress&logoColor=white&labelColor=1CA2C1" alt="Progress Dashboard">
+  </a>
+  <a href="https://benchmarkaimodels.onrender.com/" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/AI_Benchmarks-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0F9D58" alt="AI Benchmark">
+  </a>
 </p>
+
 <p align="center">
-  If this mission resonates with you, consider supporting its development. Every contribution helps bring this vision to life.
+  If this mission resonates with you, please consider supporting its development. Every contribution accelerates our ability to deliver transformative therapy solutions.
 </p>
+
 <p align="center">
-  <a href="https://ko-fi.com/pedromangue" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
-  </a>
+  <a href="https://ko-fi.com/pedromangue" target="_blank">
+    <img src="https://img.shields.io/badge/Support_Development-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi" height="40">
+  </a>
 </p>
 
 ---
