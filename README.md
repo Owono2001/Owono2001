@@ -57,7 +57,7 @@ I’m a driven final-year Computer Engineering student at APU with a passion for
   <a href="https://www.linkedin.com/in/pedrofondomangue/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://myportfolio-b-type.onrender.com/" target="_blank">
+  <a href="https://pedro-portfolio-opal.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7DF9FF?style=for-the-badge&logo=Launchpad&logoColor=black" alt="Portfolio"/>
   </a>
   <a href="mailto:owonoondomangue@gmail.com">
