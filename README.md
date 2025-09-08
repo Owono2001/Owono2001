@@ -1,8 +1,8 @@
 <p align="center">
   <img src="assets/myphoto.jpg" alt="Pedro Fabian Owono" width="150" style="border-radius:50%;"/>
   <h1 align="center">PEDRO FABIAN OWONO</h1>
-  <p align="center">🎓 Final-Year Computer Engineering Student | Aspiring Software Engineer | AI &amp; Full-Stack Developer</p>
-  <p align="center">🚀 Seeking Entry-Level Software &amp; Computer Engineering Roles (Available Dec 2025)</p>
+  <p align="center">🎓 Fresh Graduate (B.Eng. Computer Engineering) | AI & Software Development</p>
+  <p align="center">🚀 Seeking Entry-Level Software &amp; Computer Engineering Roles</p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Owono2001&style=for-the-badge&color=7DF9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
   </p>
