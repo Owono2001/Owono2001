@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="assets/myphoto.jpg" alt="Pedro Fabian Owono" width="150" style="border-radius:50%;"/>
   <h1 align="center">PEDRO FABIAN OWONO</h1>
   <p align="center">🎓 Fresh Graduate (B.Eng. Computer Engineering) | AI & Software Development</p>
   <p align="center">🚀 Seeking Entry-Level Software &amp; Computer Engineering Roles</p>
