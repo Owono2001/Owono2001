@@ -40,16 +40,6 @@ I’m a driven final-year Computer Engineering student at APU with a passion for
 
 ---
 
-## 🎧 Now Listening To
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vthctkh5ug3srkeeamtbououza&cover_image=true&theme=default&show_offline=true&background_color=631d1d&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing">
-  </a>
-</p>
-
----
-
 ## 🌐 Connect &amp; Let’s Talk
 
 <p align="center">
