@@ -1,12 +1,8 @@
 <p align="center">
-  <p align="center">🎓 Fresh Graduate (B.Eng. Computer Engineering) | AI & Software Development</p>
-  <p align="center">🚀 Seeking Entry-Level Software &amp; Computer Engineering Roles</p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Owono2001&style=for-the-badge&color=7DF9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
   </p>
 </p>
-
----
 
 ## 👋 About Me
 
