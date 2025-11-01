@@ -1,5 +1,4 @@
 <p align="center">
-  <h1 align="center">PEDRO FABIAN OWONO</h1>
   <p align="center">🎓 Fresh Graduate (B.Eng. Computer Engineering) | AI & Software Development</p>
   <p align="center">🚀 Seeking Entry-Level Software &amp; Computer Engineering Roles</p>
   <p align="center">
