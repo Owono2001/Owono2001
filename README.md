@@ -6,7 +6,11 @@
 
 ## 👋 About Me
 
-I’m a driven final-year Computer Engineering student at APU with a passion for building intelligent, scalable software solutions. Skilled in full-stack web development, AI/ML, and computer vision, I’m eager to leverage my academic projects and hands-on experience to contribute to an innovative engineering team. Ready to learn fast, adapt to new challenges, and deliver real impact from day one.
+👨🏿‍💻 Computer Engineering Graduate (APU '25)
+🎓 BEM Accredited | Washington Accord Recognized
+🛠️ Focused on: AI, Software Development, and Engineering Solutions.
+🚀 Actively looking for Full-Time Software Developer / Graduate Engineer roles.
+📍 Based in Bata, Equatorial Guinea | Open to Relocation.
 
 ---
 
