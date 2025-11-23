@@ -10,9 +10,11 @@
 
 🎓 BEM Accredited | Washington Accord Recognized
 
-🛠️ Focused on: AI, Software Development, and Engineering Solutions.
+🌍 Versatile Engineer open to Hardware, Software, & Systems roles.
 
-🚀 Actively looking for Full-Time Software Developer / Graduate Engineer roles.
+💡 Interests: AI, Coding, and General Engineering.
+
+🚀 Ready for new challenges. Open to work immediately.
 
 📍 Based in Bata, Equatorial Guinea | Open to Relocation.
 
