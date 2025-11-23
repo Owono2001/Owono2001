@@ -7,9 +7,13 @@
 ## 👋 About Me
 
 👨🏿‍💻 Computer Engineering Graduate (APU '25)
+
 🎓 BEM Accredited | Washington Accord Recognized
+
 🛠️ Focused on: AI, Software Development, and Engineering Solutions.
+
 🚀 Actively looking for Full-Time Software Developer / Graduate Engineer roles.
+
 📍 Based in Bata, Equatorial Guinea | Open to Relocation.
 
 ---
