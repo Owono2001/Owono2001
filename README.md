@@ -1,33 +1,31 @@
 <p align="center">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Owono2001&style=for-the-badge&color=7DF9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=Owono2001&style=for-the-badge&color=7DF9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 ## 👋 About Me
 
-👨🏿‍💻 Computer Engineering Graduate (APU '25)
+I am a certified Computer Engineer with a strong foundation in hardware, software, and systems architecture. I build scalable solutions and am passionate about emerging technologies, cybersecurity, and data-driven systems.
 
-🎓 BEM Accredited | Washington Accord Recognized
-
-🌍 Versatile Engineer open to Hardware, Software, & Systems roles.
-
-💡 Interests: AI, Coding, and General Engineering.
-
-🚀 Ready for new challenges. Open to work immediately.
-
-📍 Based in Bata, Equatorial Guinea | Open to Relocation.
+* 👨🏿‍💻 **Education:** Bachelor of Computer Engineering (Hons) | Asia Pacific University (APU '25)
+* 🎓 **Accreditation:** Registered Graduate Engineer at **Board of Engineers Malaysia (BEM)** | Reg No: **G2273392A** (Washington Accord Recognized)
+* ⚙️ **Specializations:** Cloud Infrastructure, Computer Systems Security, and Big Data Analytics
+* 🚀 **Status:** Open to work immediately and ready for new engineering challenges
+* 📍 **Location:** Bata, Equatorial Guinea | Open to Relocation
 
 ---
 
+## 🛠️ Tech Stack & Skills
 
-## 📊 GitHub Stats &amp; Activity
+**Languages:** Python, Java, C, C++  
+**Domains:** System Security, Data Analytics, Microprocessor Systems, Cloud Services  
+
+---
+
+## 📊 GitHub Stats & Activity
 
 <details>
   <summary><strong>Show GitHub Insights</strong></summary>
-  
   <br/>
-
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Owono2001&show_icons=true&theme=github_dark&border_color=7DF9FF&icon_color=7DF9FF&title_color=7DF9FF&text_color=c9d1d9&bg_color=0D1117&border_radius=10" alt="GitHub Stats"/>
   </p>
@@ -40,12 +38,11 @@
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Owono2001&theme=radical&no-bg=true&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&border_radius=10" alt="Trophies"/>
   </p>
-
 </details>
 
 ---
 
-## 🌐 Connect &amp; Let’s Talk
+## 🌐 Connect & Let’s Talk
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedrofondomangue/" target="_blank">
