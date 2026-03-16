@@ -2,22 +2,45 @@
   <img src="https://komarev.com/ghpvc/?username=Owono2001&style=for-the-badge&color=7DF9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
-## 👋 About Me
+<h1 align="center">Hi there, I'm Pedro Fabian Owono Ondo Mangue 👋</h1>
+<h3 align="center">Bilingual Computer Engineer | Ingeniero Informático Bilingüe (B.Eng. Hons)</h3>
 
-I am a certified Computer Engineer with a strong foundation in hardware, software, and systems architecture. I build scalable solutions and am passionate about emerging technologies, cybersecurity, and data-driven systems.
+## 👨🏿‍💻 About Me
 
-* 👨🏿‍💻 **Education:** Bachelor of Computer Engineering (Hons) | Asia Pacific University (APU '25)
-* 🎓 **Accreditation:** Registered Graduate Engineer at **Board of Engineers Malaysia (BEM)** | Reg No: **G2273392A** (Washington Accord Recognized)
-* ⚙️ **Specializations:** Cloud Infrastructure, Computer Systems Security, and Big Data Analytics
-* 🚀 **Status:** Open to work immediately and ready for new engineering challenges
-* 📍 **Location:** Bata, Equatorial Guinea | Open to Relocation
+I am a certified Computer Engineer with a strong foundation in systems architecture, industrial automation, hardware-software integration, and control logic (IoT, Edge Computing). I am passionate about bridging the gap between hardware and software to build scalable, secure, and data-driven solutions for the Industrial, Telecommunications, and Corporate sectors.
+
+* 🎓 **Education:** Bachelor of Computer Engineering (Hons) | Asia Pacific University (APU '25)
+* 🏅 **Accreditation:** Registered Graduate Engineer at **Board of Engineers Malaysia (BEM)** | Reg No: **G2273392A** *(Washington Accord Recognized)*
+* ⚙️ **Specializations:** Industrial Systems, Computer Vision, Cybersecurity, and Edge Computing.
+* 🚀 **Status:** Open to work immediately and ready for new engineering challenges.
+* 📍 **Location:** Bata, Equatorial Guinea | Open to Relocation (Malabo / Punta Europa).
+
+---
+
+## 💼 Professional Portfolio & CVs
+
+I have prepared targeted resumes and bureaucratic guides tailored for recruiters and professionals in Equatorial Guinea. Check out my **[Career-Portfolio Repository](https://github.com/Owono2001/Career-Portfolio)** or download my documents directly below:
+
+<div align="center">
+  <a href="https://github.com/Owono2001/Career-Portfolio/blob/main/CV_Pedro_Owono_Engineer_English.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-English-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV English"/>
+  </a>
+  <a href="https://github.com/Owono2001/Career-Portfolio/blob/main/CV_Pedro_Owono_Ingeniero_Espanol.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Descargar_CV-Español-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Español"/>
+  </a>
+  <a href="https://github.com/Owono2001/Career-Portfolio/blob/main/Guia_Homologacion_Titulos_Extranjeros_Guinea_Ecuatorial.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Guía_Homologación-G.E.-success?style=for-the-badge&logo=bookmeter&logoColor=white" alt="Guia GE"/>
+  </a>
+</div>
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-**Languages:** Python, Java, C, C++  
-**Domains:** System Security, Data Analytics, Microprocessor Systems, Cloud Services  
+* 🖥️ **Industrial Systems & Hardware:** IoT, 3D Printing, CAD (SolidWorks), Edge Computing (Raspberry Pi)
+* 🧠 **AI & Control Logic:** Computer Vision (OpenCV, ONNX), PyTorch, TensorFlow
+* 🌐 **Networking & Security:** RBAC, Git, Docker, SQL (PostgreSQL, MySQL), Cybersecurity fundamentals
+* 💻 **Languages:** Python, Java, C, C++, JavaScript
 
 ---
 
