@@ -20,38 +20,7 @@ I am a certified Computer Engineer with a strong foundation in systems architect
 
 ## 💼 Professional Portfolio & CVs
 
-I have prepared targeted resumes and bureaucratic guides tailored for recruiters and professionals in Equatorial Guinea. Check out my **[Career-Portfolio Repository](https://github.com/Owono2001/Career-Portfolio)** or download my documents directly below:
-
-### 🏭 Industry, O&G, and Telecom
-<div align="center">
-  <a href="https://github.com/Owono2001/Career-Portfolio/blob/main/CV_Pedro_Owono_Engineer_English.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download_CV-English-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV English"/>
-  </a>
-  <a href="https://github.com/Owono2001/Career-Portfolio/blob/main/CV_Pedro_Owono_Ingeniero_Espanol.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Descargar_CV-Español-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Español"/>
-  </a>
-</div>
-
-<br>
-
-### 🏦 Banking, Finance & Corporate IT
-<div align="center">
-  <a href="https://github.com/Owono2001/Career-Portfolio/blob/main/CV_Pedro_Owono_Banking_EN.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Banking_IT_CV-English-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Banking CV English"/>
-  </a>
-  <a href="https://github.com/Owono2001/Career-Portfolio/blob/main/CV_Pedro_Owono_Banking_ES.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV_Banca_e_IT-Español-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Banking CV Español"/>
-  </a>
-</div>
-
-<br>
-
-### 📚 Legal & Bureaucratic Guides
-<div align="center">
-  <a href="https://github.com/Owono2001/Career-Portfolio/blob/main/Guia_Homologacion_Titulos_Extranjeros_Guinea_Ecuatorial.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Guía_Homologación-G.E.-success?style=for-the-badge&logo=bookmeter&logoColor=white" alt="Guia GE"/>
-  </a>
-</div>
+I have prepared targeted resumes and bureaucratic guides tailored for recruiters and professionals in Equatorial Guinea. Check out my **[Career-Portfolio Repository](https://github.com/Owono2001/Career-Portfolio)**:
 
 ---
 
